@@ -1,0 +1,54 @@
+{
+    "projects": [
+        {
+            "id": "001",
+            "project_name": "public-API-requests",
+            "description": "",
+            "technologies": "",
+            "live_link": "",
+            "github_link": "",
+            "image_urls": ""
+        },
+
+        {
+            "id": "002",
+            "project_name": "Interactive-jQuery-Form",
+            "description": "",
+            "technologies": "",
+            "live_link": "",
+            "github_link": "",
+            "image_urls": ""
+        },
+
+        {
+            "id": "003",
+            "project_name": "JS-guessing-game-app",
+            "description": "",
+            "technologies": "",
+            "live_link": "",
+            "github_link": "",
+            "image_urls": ""
+        },
+
+        {
+            "id": "004",
+            "project_name": "Student-List-Pagination-Filtering",
+            "description": "",
+            "technologies": "",
+            "live_link": "",
+            "github_link": "",
+            "image_urls": ""
+        },
+
+        {
+            "id": "005",
+            "project_name": "Random-Quote-Generator",
+            "description": "",
+            "technologies": "",
+            "live_link": "",
+            "github_link": "",
+            "image_urls": ""
+        }      
+        
+    ]
+}

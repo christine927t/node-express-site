@@ -1,3 +1,3 @@
-# node-express-site
- 
-Hello changes from readme
+/////NODE && EXPRESS SITE/////
+Treehouse Tech Degree Project 6
+by Christine Treacy 
