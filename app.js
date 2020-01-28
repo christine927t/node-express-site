@@ -1,5 +1,6 @@
 const express = require('express');
-const data = require('./data.json');
+const { data } = require('./data.json');
+// const { projects } = data;
 
 const app = express();
 
@@ -12,17 +13,20 @@ app.use(express.static('public'));
 
 /////ROUTES/////
 //home route
-app.render('/', [data.projects], (req, res) => {
-    res.send(`<h1>Testing, testing...</h1>`);
+app.get('/', (req, res) => {
+    res.render('index');
 });
 
 //about route
-// app.render('/about', (req, res) => {
+app.get('/about', (req, res) => {
+    res.render('about');
+})
 
-// })
-
-//dynamic project route
-
+// dynamic project route
+app.get('/project/:id', (req, res) => {
+    res.send(req.params)
+    console.log(req.params)
+})
 
 
 //starts server
