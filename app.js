@@ -1,6 +1,6 @@
 const express = require('express');
-const { data } = require('./data.json');
-// const { projects } = data;
+const { projects } = require('./data.json');
+const { id } = projects;
 
 const app = express();
 
@@ -23,13 +23,25 @@ app.get('/about', (req, res) => {
 })
 
 // dynamic project route
-app.get('/project/:id', (req, res) => {
-    res.send(req.params)
-    console.log(req.params)
+app.get('/project', (req, res) => {
+    res.render('project', projects);
+    console.log(projects[2].project_name)
+    console.log(id)
 })
-
 
 //starts server
 app.listen(3000, () => {
     console.log("Application is connected");
 });
+
+// If a user navigates to a non-existent route, 
+// or if a request for a resource fails for whatever 
+// reason, your app should handle the error in a user friendly way.
+
+// Add an error handler to app.js that sets the 
+// error message to a user friendly message, 
+// and sets the status code.
+
+// Log out a user friendly message to the console 
+// when the app is pointed at a URL that doesn't 
+// exist as a route in the app, such as /error/error.

@@ -4,50 +4,50 @@
             "id": "001",
             "project_name": "public-API-requests",
             "description": "",
-            "technologies": "",
+            "technologies": ["HTML", "CSS", "JavaScript", "Fetch API"],
             "live_link": "",
-            "github_link": "",
-            "image_urls": ""
+            "github_link": "https://github.com/christine927t/public-API-requests",
+            "image_urls": ["img/api-requests.png", "api-requests-sq.png", "api-requests-lego.png", "api-requests-2.png"]
         },
 
         {
             "id": "002",
             "project_name": "Interactive-jQuery-Form",
             "description": "",
-            "technologies": "",
+            "technologies": ["HTML", "CSS", "jQuery"],
             "live_link": "",
-            "github_link": "",
-            "image_urls": ""
+            "github_link": "https://github.com/christine927t/Interactive-jQuery-Form",
+            "image_urls": ["interactive-jquery.png", "interactive-jquery-sq.png", "interactive-jquery=2.png"]
         },
 
         {
             "id": "003",
             "project_name": "JS-guessing-game-app",
             "description": "",
-            "technologies": "",
+            "technologies": ["HTML", "CSS", "JavaScript"],
             "live_link": "",
-            "github_link": "",
-            "image_urls": ""
+            "github_link": "https://github.com/christine927t/JS-guessing-game-app",
+            "image_urls": ["guessing-game.png", "guessing-game-sq.png", "guessing-game-2.png", "guessing-game-3.png"]
         },
 
         {
             "id": "004",
             "project_name": "Student-List-Pagination-Filtering",
             "description": "",
-            "technologies": "",
+            "technologies": ["HTML", "CSS", "JavaScript"],
             "live_link": "",
-            "github_link": "",
-            "image_urls": ""
+            "github_link": "https://github.com/christine927t/Student-List-Pagination-Filtering",
+            "image_urls": ["list-filtering.png", "list-filtering-sq.png", "list-filtering-2.png"]
         },
 
         {
             "id": "005",
             "project_name": "Random-Quote-Generator",
             "description": "",
-            "technologies": "",
+            "technologies": ["HTML", "CSS", "JavaScript"],
             "live_link": "",
-            "github_link": "",
-            "image_urls": ""
+            "github_link": "https://github.com/christine927t/Random-Quote-Generator",
+            "image_urls": ["quote-generator.png", "quote-generator-2.png", "quote-generator-3.png"]
         }      
         
     ]
