@@ -148,3 +148,17 @@ a:hover{
 .portfolio-bio{
     line-height: 25px;
 }
+
+/* Error page */
+.error-heading{
+  float: left;
+  margin: 10px;
+}
+
+.error-image{
+  border-radius: 10px;
+  width: 230px;
+  float: right;
+  margin: 10px;
+
+}

@@ -8,9 +8,22 @@ const app = express();
 app.set('view engine', 'pug');
 
 //serves static files in public folder
-app.use(express.static('public'));
+app.use('/static', express.static('public'));
 
 app.use('/', indexRouter);
+
+app.use((req, res, next) => {
+    const err = new Error("Sorry, this page does not exist!");
+    err.status = 404;
+    next(err);
+});
+
+/////ERROR HANDLER/////
+app.use((err, req, res, next) =>{
+    res.locals.error = err;
+    res.status(err.status);
+    res.render('error');
+});
 
 //starts server
 app.listen(3000, () => {

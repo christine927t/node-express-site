@@ -1,3 +1,8 @@
-h1= error.message
-h2= error.status
-pre= error.stack
+extend layout.pug
+
+block content
+    h1.error-heading= error.message
+    h2.error-heading= error.status
+    img.error-image(src='../static/img/sad-panda-2.jpg')
+
+    //- pre= error.stack

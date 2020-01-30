@@ -7,7 +7,7 @@
             "technologies": ["HTML", "CSS", "JavaScript", "Fetch API"],
             "live_link": "",
             "github_link": "https://github.com/christine927t/public-API-requests",
-            "image_urls": ["img/api-requests.png", "api-requests-sq.png", "api-requests-lego.png", "api-requests-2.png"]
+            "image_urls": ["/static/img/api-requests-sq.png", "/static/img/api-requests.png", "/static/img/api-requests-lego.png", "/static/img/api-requests-2.png"]
         },
 
         {
@@ -17,7 +17,7 @@
             "technologies": ["HTML", "CSS", "jQuery"],
             "live_link": "",
             "github_link": "https://github.com/christine927t/Interactive-jQuery-Form",
-            "image_urls": ["interactive-jquery.png", "interactive-jquery-sq.png", "interactive-jquery=2.png"]
+            "image_urls": ["/static/img/interactive-jquery-sq.png", "/static/img/interactive-jquery.png", "/static/img/interactive-jquery=2.png"]
         },
 
         {
@@ -27,7 +27,7 @@
             "technologies": ["HTML", "CSS", "JavaScript"],
             "live_link": "",
             "github_link": "https://github.com/christine927t/JS-guessing-game-app",
-            "image_urls": ["guessing-game.png", "guessing-game-sq.png", "guessing-game-2.png", "guessing-game-3.png"]
+            "image_urls": ["/static/img/guessing-game-sq.png", "/static/img/guessing-game.png", "/static/img/guessing-game-2.png", "/static/img/guessing-game-3.png"]
         },
 
         {
@@ -37,7 +37,7 @@
             "technologies": ["HTML", "CSS", "JavaScript"],
             "live_link": "",
             "github_link": "https://github.com/christine927t/Student-List-Pagination-Filtering",
-            "image_urls": ["list-filtering.png", "list-filtering-sq.png", "list-filtering-2.png"]
+            "image_urls": ["/static/img/list-filtering-sq.png", "/static/img/list-filtering.png", "/static/img/list-filtering-2.png"]
         },
 
         {
@@ -47,7 +47,7 @@
             "technologies": ["HTML", "CSS", "JavaScript"],
             "live_link": "",
             "github_link": "https://github.com/christine927t/Random-Quote-Generator",
-            "image_urls": ["quote-generator.png", "quote-generator-2.png", "quote-generator-3.png"]
+            "image_urls": ["/static/img/quote-generator-sq.png", "/static/img/quote-generator-2.png", "/static/img/quote-generator.png"]
         }      
         
     ]
