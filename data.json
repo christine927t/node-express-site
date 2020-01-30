@@ -1,9 +1,9 @@
 {
     "projects": [
         {
-            "id": "001",
-            "project_name": "public-API-requests",
-            "description": "",
+            "id": 1,
+            "project_name": "Fetch API Requests",
+            "description": "This app uses a single Fetch API request to return 12 random people. The user can click on one person to view a large version of their card. The Prev/Next buttons at the bottom will move to the last and next person, respectively. On the main page, type a name to filter/search by a particular employee's name.",
             "technologies": ["HTML", "CSS", "JavaScript", "Fetch API"],
             "live_link": "",
             "github_link": "https://github.com/christine927t/public-API-requests",
@@ -11,9 +11,9 @@
         },
 
         {
-            "id": "002",
-            "project_name": "Interactive-jQuery-Form",
-            "description": "",
+            "id": 2,
+            "project_name": "jQuery Form with validation",
+            "description": "This is a form I built with jQuery that provides real time error messages based on field requirements. It also provides error messages on submit when the form is missing required information.",
             "technologies": ["HTML", "CSS", "jQuery"],
             "live_link": "",
             "github_link": "https://github.com/christine927t/Interactive-jQuery-Form",
@@ -21,9 +21,9 @@
         },
 
         {
-            "id": "003",
-            "project_name": "JS-guessing-game-app",
-            "description": "",
+            "id": 3,
+            "project_name": "Guessing Game App",
+            "description": "This is an interactive guessing game app that gives the player 5 guesses to guess the phrase correctly. This was my first attempt at utiliziing classes in JavaScript to built an app. There are two main classes in this app: Phrase and Game. Each has their own .js file to keep things neat and organized. Within each class, there is a set of methods that control the interaction of the game.",
             "technologies": ["HTML", "CSS", "JavaScript"],
             "live_link": "",
             "github_link": "https://github.com/christine927t/JS-guessing-game-app",
@@ -31,9 +31,9 @@
         },
 
         {
-            "id": "004",
-            "project_name": "Student-List-Pagination-Filtering",
-            "description": "",
+            "id": 4,
+            "project_name": "Student List Pagination & Filtering",
+            "description": "The goal of this app was to create a searchable list of students. Pagination was added to organize results. The search feature works as the user types or on 'submit'. There is also an error message returned when no results are yielded.",
             "technologies": ["HTML", "CSS", "JavaScript"],
             "live_link": "",
             "github_link": "https://github.com/christine927t/Student-List-Pagination-Filtering",
@@ -41,9 +41,9 @@
         },
 
         {
-            "id": "005",
-            "project_name": "Random-Quote-Generator",
-            "description": "",
+            "id": 5,
+            "project_name": "Random Quote Generator App",
+            "description": "This app generates a new random quote each time the user clicks 'show another quote' or every 8 seconds, whichever comes first.",
             "technologies": ["HTML", "CSS", "JavaScript"],
             "live_link": "",
             "github_link": "https://github.com/christine927t/Random-Quote-Generator",
