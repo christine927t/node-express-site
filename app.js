@@ -25,6 +25,7 @@ app.use((err, req, res, next) =>{
     res.locals.error = err;
     res.status(err.status);
     res.render('error');
+    console.log(`Error ${err.status} - ${err.message}`);
 });
 
 //starts server

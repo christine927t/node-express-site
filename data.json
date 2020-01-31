@@ -5,7 +5,7 @@
             "project_name": "Fetch API Requests",
             "description": "This app uses a single Fetch API request to return 12 random people. The user can click on one person to view a large version of their card. The Prev/Next buttons at the bottom will move to the last and next person, respectively. On the main page, type a name to filter/search by a particular employee's name.",
             "technologies": ["HTML", "CSS", "JavaScript", "Fetch API"],
-            "live_link": "",
+            "live_link": "https://christine927t.github.io/public-API-requests/",
             "github_link": "https://github.com/christine927t/public-API-requests",
             "image_urls": ["/static/img/api-requests-sq.png", "/static/img/api-requests.png", "/static/img/api-requests-lego.png", "/static/img/api-requests-2.png"]
         },
@@ -15,7 +15,7 @@
             "project_name": "jQuery Form with validation",
             "description": "This is a form I built with jQuery that provides real time error messages based on field requirements. It also provides error messages on submit when the form is missing required information.",
             "technologies": ["HTML", "CSS", "jQuery"],
-            "live_link": "",
+            "live_link": "https://christine927t.github.io/Interactive-jQuery-Form/",
             "github_link": "https://github.com/christine927t/Interactive-jQuery-Form",
             "image_urls": ["/static/img/interactive-jquery-sq.png", "/static/img/interactive-jquery.png", "/static/img/interactive-jquery=2.png"]
         },
@@ -25,7 +25,7 @@
             "project_name": "Guessing Game App",
             "description": "This is an interactive guessing game app that gives the player 5 guesses to guess the phrase correctly. This was my first attempt at utiliziing classes in JavaScript to built an app. There are two main classes in this app: Phrase and Game. Each has their own .js file to keep things neat and organized. Within each class, there is a set of methods that control the interaction of the game.",
             "technologies": ["HTML", "CSS", "JavaScript"],
-            "live_link": "",
+            "live_link": "https://christine927t.github.io/JS-guessing-game-app/",
             "github_link": "https://github.com/christine927t/JS-guessing-game-app",
             "image_urls": ["/static/img/guessing-game-sq.png", "/static/img/guessing-game.png", "/static/img/guessing-game-2.png", "/static/img/guessing-game-3.png"]
         },
@@ -35,7 +35,7 @@
             "project_name": "Student List Pagination & Filtering",
             "description": "The goal of this app was to create a searchable list of students. Pagination was added to organize results. The search feature works as the user types or on 'submit'. There is also an error message returned when no results are yielded.",
             "technologies": ["HTML", "CSS", "JavaScript"],
-            "live_link": "",
+            "live_link": "https://christine927t.github.io/Student-List-Pagination-Filtering/",
             "github_link": "https://github.com/christine927t/Student-List-Pagination-Filtering",
             "image_urls": ["/static/img/list-filtering-sq.png", "/static/img/list-filtering.png", "/static/img/list-filtering-2.png"]
         },
@@ -45,7 +45,7 @@
             "project_name": "Random Quote Generator App",
             "description": "This app generates a new random quote each time the user clicks 'show another quote' or every 8 seconds, whichever comes first.",
             "technologies": ["HTML", "CSS", "JavaScript"],
-            "live_link": "",
+            "live_link": "https://christine927t.github.io/Random-Quote-Generator/",
             "github_link": "https://github.com/christine927t/Random-Quote-Generator",
             "image_urls": ["/static/img/quote-generator-sq.png", "/static/img/quote-generator-2.png", "/static/img/quote-generator.png"]
         }      
