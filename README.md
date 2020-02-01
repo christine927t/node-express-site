@@ -14,9 +14,9 @@ Welcome to my portfolio site! This site is my first attempt at server-side JavaS
 **Pug**
 
 ## CSS changes: 
-To make this portfolio look a little more "me" I added some color and gradients to the background, a matching logo. I also changed the look of the 'Live Demo' and 'GitHub Repo' links.
+To make this portfolio look a little more "me" I added some color and gradients to the background, a matching logo. I also changed the look of the 'Live Demo' and 'GitHub Repo' links as well as the h1 font.
 
 ## Future Improvements:
 I'd like to continue to improve the design of the site by exploring more fonts, CSS transitions, etc. I'd also like to add social media icons/links on the sidebar.
 
-(https://github.com/christine927t/public-API-requests)
+(https://christine927t.github.io/public-API-requests/)
