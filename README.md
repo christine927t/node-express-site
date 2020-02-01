@@ -7,11 +7,17 @@ Welcome to my portfolio site! This site is my first attempt at server-side JavaS
 
 ## Built With:
 **HTML**
+
 **CSS**
+
 **JavaScript**
+
 **Node.js**
+
 **Express**
+
 **Pug**
+
 
 ## CSS changes: 
 To make this portfolio look a little more "me" I added some color and gradients to the background, a matching logo. I also changed the look of the 'Live Demo' and 'GitHub Repo' links as well as the h1 font.
