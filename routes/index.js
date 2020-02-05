@@ -19,7 +19,9 @@ router.get('/projects/:id', function(req, res, next) {
     if(project) {
       res.render('project', { project });
     } else {
-      res.sendStatus(404);
+      const err = new Error();
+      err.status = 404;
+      next(err);
     }
 });
 
