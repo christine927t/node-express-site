@@ -2,6 +2,16 @@
     "projects": [
         {
             "id": 1,
+            "project_name": "React Gallery/Flickr API App",
+            "description": "This React app uses a single Fetch API request to return 24 images from the Flickr API. The user can load results from one of the keywords in the navigation or type their own word and search.",
+            "technologies": ["React","HTML", "CSS", "JavaScript", "Fetch API"],
+            "live_link": "https://react-gallery-ct.herokuapp.com/mountain",
+            "github_link": "https://github.com/christine927t/react-with-api-gallery",
+            "image_urls": ["/static/img/react-gallery-sq.png", "/static/img/react-gallery-3.png", "/static/img/react-gallery.png", "/static/img/react-gallery-2.png"]
+        },
+
+        {
+            "id": 2,
             "project_name": "Fetch API Requests",
             "description": "This app uses a single Fetch API request to return 12 random people. The user can click on one person to view a large version of their card. The Prev/Next buttons at the bottom will move to the last and next person, respectively. On the main page, type a name to filter/search by a particular employee's name.",
             "technologies": ["HTML", "CSS", "JavaScript", "Fetch API"],
@@ -11,7 +21,7 @@
         },
 
         {
-            "id": 2,
+            "id": 3,
             "project_name": "jQuery Form with validation",
             "description": "This is a form I built with jQuery that provides real time error messages based on field requirements. It also provides error messages on submit when the form is missing required information.",
             "technologies": ["HTML", "CSS", "jQuery"],
@@ -21,7 +31,7 @@
         },
 
         {
-            "id": 3,
+            "id": 4,
             "project_name": "Guessing Game App",
             "description": "This is an interactive guessing game app that gives the player 5 guesses to guess the phrase correctly. This was my first attempt at utiliziing classes in JavaScript to built an app. There are two main classes in this app: Phrase and Game. Each has their own .js file to keep things neat and organized. Within each class, there is a set of methods that control the interaction of the game.",
             "technologies": ["HTML", "CSS", "JavaScript"],
@@ -31,7 +41,7 @@
         },
 
         {
-            "id": 4,
+            "id": 5,
             "project_name": "Student List Pagination & Filtering",
             "description": "The goal of this app was to create a searchable list of students. Pagination was added to organize results. The search feature works as the user types or on 'submit'. There is also an error message returned when no results are yielded.",
             "technologies": ["HTML", "CSS", "JavaScript"],
@@ -41,7 +51,7 @@
         },
 
         {
-            "id": 5,
+            "id": 6,
             "project_name": "Random Quote Generator App",
             "description": "This app generates a new random quote each time the user clicks 'show another quote' or every 8 seconds, whichever comes first.",
             "technologies": ["HTML", "CSS", "JavaScript"],
